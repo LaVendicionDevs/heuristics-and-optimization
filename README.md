@@ -1,5 +1,8 @@
-#heuristics and optimization code
+#Heuristics and optimization code
 
+##What is this?
+Here you'll find the code we made for the H&O assignments.
+The problem description has not been already uploaded, neither the written solution we achieved. If you'd like them, please, contact me :izakaya_lantern:.
 
 ##linear programming
 * requirement:
