@@ -1,0 +1,4 @@
+arbol 3 4 6
+casa 4 6 70
+caja 32 5 6
+silla_de_ikea 7 5 30
