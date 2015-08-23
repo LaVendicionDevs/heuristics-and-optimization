@@ -5,9 +5,8 @@ def combinations(iterable, r):
     n = len(pool)
     if r > n:
         return
-    
 
-    indices = range(r)	
+    indices = range(r)
     print indices
     yield tuple(pool[i] for i in indices)
     while True:
